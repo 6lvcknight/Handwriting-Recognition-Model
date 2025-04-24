@@ -1,1 +1,1 @@
-# Handwriting-Recognition-Model
+# Handwriting Recognition Model
